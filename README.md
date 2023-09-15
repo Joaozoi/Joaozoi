@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Joaozoi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m João Pedro
+- 👀 I’m interested in IT in Senac
+- 🌱 I’m currently learning programming, database and automation
+- 💞️ I’m looking to collaborate on Java, ADS and cybersecurity
+- 📫 How to reach me Discord: zoiudo
+- 💼LinkedIn:jpzm12
 <div>
   <a href="https://www.linkedin.com/in/jpzm12/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" title="LinkedIn" alt="LinkedIn""/>&nbsp; </a>
 </div>
