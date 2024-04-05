@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Pedro Zabarella 
-- 👀 I’m interested in IT in Senac
+- 👀 I’m interested in ADS in Senac
 - 🌱 I’m currently learning programming, database and automation
-- 💞️ I’m looking to collaborate on Java, ADS and cybersecurity
+- 💞️ I’m looking to collaborate on Java, Python, ADS
 - 📫 How to reach me Discord: zoiudo
 - 💼LinkedIn:João Pedro Zabarella Muniz
 <div>
